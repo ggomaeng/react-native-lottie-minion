@@ -2,6 +2,14 @@
 
 ![](./demo.gif)
 
+## TODO
+
+1. Fix the render bug on Android
+
+2. Calculate the stareAt(text). It currently uses the length of text. Can be off in an edge case like "iiiiiiiiii."
+
+Open for pull requests! :-D
+
 ## Try it out
 
 Try it with Exponent: https://exp.host/@sungwoopark95/react-native-lottie-minion
